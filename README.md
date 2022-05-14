@@ -1,2 +1,4 @@
 # bai1
-bai 1 v
+bai 1 
+vavnjaa
+sfa
